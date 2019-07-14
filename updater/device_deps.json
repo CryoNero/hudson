@@ -1,4 +1,53 @@
 {
+    "t0lte": [
+        "android_device_samsung_smdk4412-common",
+        "android_device_samsung_smdk4412-qcom-common",
+        "android_device_samsung_t0lte",
+        "android_external_stlport",
+        "android_hardware_samsung",
+        "android_kernel_samsung_smdk4412",
+        "android_packages_resources_devicesettings"
+    ],
+    "t0ltejpn": [
+        "android_device_samsung_smdk4412-common",
+        "android_device_samsung_smdk4412-qcom-common",
+        "android_device_samsung_t0lte",
+        "android_device_samsung_t0ltejpn",
+        "android_external_stlport",
+        "android_hardware_samsung",
+        "android_kernel_samsung_smdk4412",
+        "android_packages_resources_devicesettings"
+    ],
+    "t0ltekor": [
+        "android_device_samsung_smdk4412-common",
+        "android_device_samsung_smdk4412-qcom-common",
+        "android_device_samsung_t0lte",
+        "android_device_samsung_t0ltekor",
+        "android_external_stlport",
+        "android_hardware_samsung",
+        "android_kernel_samsung_smdk4412",
+        "android_packages_resources_devicesettings"
+    ],
+    "t0ltektt": [
+        "android_device_samsung_smdk4412-common",
+        "android_device_samsung_smdk4412-qcom-common",
+        "android_device_samsung_t0lte",
+        "android_device_samsung_t0ltektt",
+        "android_external_stlport",
+        "android_hardware_samsung",
+        "android_kernel_samsung_smdk4412",
+        "android_packages_resources_devicesettings"
+    ],
+    "t0lteskt": [
+        "android_device_samsung_smdk4412-common",
+        "android_device_samsung_smdk4412-qcom-common",
+        "android_device_samsung_t0lte",
+        "android_device_samsung_t0lteskt",
+        "android_external_stlport",
+        "android_hardware_samsung",
+        "android_kernel_samsung_smdk4412",
+        "android_packages_resources_devicesettings"
+    ],
     "FP2": [
         "android_device_fairphone_FP2",
         "android_kernel_fairphone_msm8974",
